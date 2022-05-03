@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/state-as-props/static/css/main.e75805ae.css",
+    "main.js": "/state-as-props/static/js/main.968bba50.js",
+    "static/js/787.2eb5fcde.chunk.js": "/state-as-props/static/js/787.2eb5fcde.chunk.js",
+    "index.html": "/state-as-props/index.html",
+    "main.e75805ae.css.map": "/state-as-props/static/css/main.e75805ae.css.map",
+    "main.968bba50.js.map": "/state-as-props/static/js/main.968bba50.js.map",
+    "787.2eb5fcde.chunk.js.map": "/state-as-props/static/js/787.2eb5fcde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75805ae.css",
+    "static/js/main.968bba50.js"
+  ]
+}
