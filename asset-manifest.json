@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/state-as-props/static/css/main.a5455dd0.css",
-    "main.js": "/state-as-props/static/js/main.3b6b7b69.js",
-    "static/js/787.2eb5fcde.chunk.js": "/state-as-props/static/js/787.2eb5fcde.chunk.js",
-    "index.html": "/state-as-props/index.html",
-    "main.a5455dd0.css.map": "/state-as-props/static/css/main.a5455dd0.css.map",
-    "main.3b6b7b69.js.map": "/state-as-props/static/js/main.3b6b7b69.js.map",
-    "787.2eb5fcde.chunk.js.map": "/state-as-props/static/js/787.2eb5fcde.chunk.js.map"
+    "main.css": "/PizzeriaProject/static/css/main.a5455dd0.css",
+    "main.js": "/PizzeriaProject/static/js/main.ddf2694c.js",
+    "static/js/787.2eb5fcde.chunk.js": "/PizzeriaProject/static/js/787.2eb5fcde.chunk.js",
+    "index.html": "/PizzeriaProject/index.html",
+    "main.a5455dd0.css.map": "/PizzeriaProject/static/css/main.a5455dd0.css.map",
+    "main.ddf2694c.js.map": "/PizzeriaProject/static/js/main.ddf2694c.js.map",
+    "787.2eb5fcde.chunk.js.map": "/PizzeriaProject/static/js/787.2eb5fcde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5455dd0.css",
-    "static/js/main.3b6b7b69.js"
+    "static/js/main.ddf2694c.js"
   ]
 }
